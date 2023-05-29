@@ -10,3 +10,6 @@ java -cp build main.Main
 
 javadoc -d doc src/modele/taquin/*.java src/modele/tuile/*.java src/modele/*.java src/vue/terminal/*.java src/main/Main.java src/controle/gui/*.java src/vue/gui/*.java src/controle/terminal/*.java
 
+## MVC:
+
+![Texte alternatif](chemin/vers/votre/image.jpg)
