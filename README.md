@@ -12,4 +12,4 @@ javadoc -d doc src/modele/taquin/*.java src/modele/tuile/*.java src/modele/*.jav
 
 ## MVC:
 
-![Texte alternatif](chemin/vers/votre/image.jpg)
+![Texte alternatif](MVC.jpg)
